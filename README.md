@@ -1,13 +1,15 @@
-### Hello World 🌍!👋, Blessing  C
+## Hello World 🌍!👋,  I'm Blessing  C
 
-#### Web Engineering
+### Web Engineering
 ![Web Engineering](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I am Blessing Chimbirima and l am from Moscow. I am interested in technology and math. I am a front-end developer.  I love numbers and nature.  I am fascinated by the rate of change of technology each and every day and l enjoy studying new things every time. I am currently learning MERN FULL STACK
 
-### Skills: 
+## Skills: 
 
-JavaScript/  REACT / JS / jQuery/  HTML / CSS 
+* 💻 JavaScript ,jQuery ,   HTML  CSS 
+* ⚛ REACT 
+  
 
 - 🔭 I’m currently working on MERN Apps 
 - 🌱 I’m currently learning MERN full Stack, Linux   
